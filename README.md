@@ -3,7 +3,7 @@ The official magazine of computer science scientific association of the shahid b
 
 <br>
 
-<p style="text-align: center"><img src="assets\pictures\Logo-outlined-01.png" width = 75% style=""></p>
+<p style="text-align: center"><img src="assets\pictures\Logo-outlined-01.png" height = 300 style=""></p>
 <!-- ![Pardazeh Magazine](assets\pictures\Logo-outlined-01.png) -->
 
 <br>
